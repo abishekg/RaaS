@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "raas-dsc",
+  "private_key_id": "7372d7d0c74291ca7db33d813b7e3d126f685e6f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCiYlGQ/uZ7N5qH\nfOP5yb/uHfGFDLZPGnr0OJormOk4fdxGcmyIK/cdTrWIkblJqjyHL+dSPSkXKSu4\nQp/3RKRE6/YgsyNGG59jUuoBbOKFqw31IwbIXJA5oNjQZF+UiiQ7ScOXEgnvKIn1\nXebSviXviJwDaI6qcSQCu+Ij2dbQtoU3mz2Qcc1pXwfmWxprlZqSnaiXdlqQWc9H\nwUXsIQz63SNeQzYNl18CbjPW8W6Z6eL92Pf4L8Gd1MNXi4iv/qJiUA45fdLDuAer\nYkFzgdWHGFO4XwWqnIGTV66P/11r/s3smffvxMPxhcUVkFjbWfsWJeY8l7qTV3s+\nEI+/UaWnAgMBAAECggEAQCC22J2ptOiBGNesCpXvu6BMpMAf8T5iZzdBP01scRhX\nWOTQUriWJxdR3qS5+UsHC1ZSMqqfoxtpviNlnBeaDfPnqANGv2WiPO3eJwDytloW\nsYQLJi5T8MZCSY4SJw2lAFsBqJQBo1atoN5cDUb1oVKgVkJA8TOsRn4fcQwS5ypE\nELixBy9bwTc2h1UbOYKxulB+4UgNlUoOZ+lNCLCK64G5Wdihmb6t1nGRvKYdjbaW\naMzD3mbwdCqGc5MxpkX5w45i06VzqZrJcsRM3B6/B0RTJJj/2rGVYAc50BCiZZ2N\nmy9OTM4vQxySSvH1qco40t8xvGxIrkp9s19cDiovXQKBgQDcEKbDfCMTiJE2fDyi\nHQAM0SkExkrPe/+H3nU1Wip7LziSgcCbcd9X9nDMSSfRbQE5WlUm2QrnPRY8SzEQ\nbRH+AmtN6/vLyJpnSmQOg1EGk9w+w62l4JkE7tTG/0MyNOmY6J+v52eyB0fy2XCC\nlRVY7zMHzNDiFLH7fy299qumRQKBgQC85m/Wf9JI+VHZSFWMeVrNaR/raDcA7NxK\n2AmPwbegJGkJcJUG4ke4vJlJ4MQ+99I5Icoll1WRnKumIWaHqE7tDNSXDlW034te\nhH6+hOoKQ0apUztcwWszZFiNRnoj5y/XjQgPXVvtR6aozOFNtWwHcUGlhXQD9MBG\nUERMXZkg+wKBgBJNxEEgMx6tzj406SomtVlbkEjYYWKOkrtvUlpkrIHgdJki9602\nNHhxhAJJ12kA4wgtLkXz6YdAOng7XNJb8BIri1dI2IGjpswOkPHwFC4y4C/MQMY6\nPx/86W+/zYwAgKl6N8X+vk49csuNMGF8GvFxu9HbREh5pjAf7OMPAEntAoGBAKdZ\nTwMswlM77bMdTgzhBfysgUbAUNpU/OShd/cPm2oYV6WxQ5WRqhCTpQm6QqG2U1uh\n/8BFzdzue3L2bCsKhMGleEFKxcszr/jQUKjgf6cP6u3fetu1zw78eybNpS9hhRTl\nMJrMDsCrlY490+xQKaB+SbYmAJ3wmtawDZHJ6fs5AoGAQGNvTHANCCHXjwS+3s2d\nXhDzB4FNGJAAxtb/THicFsMOfZr9y3TvvL9/3llDYvWFg56DtFZ78KMcbj3Pw0zm\nf/HsskZrjQ1njaEhOo38dw//ai2y6EEA4rV6v32odMSWMyMeOyGFKFHrb7s3EByz\nivqE1Sf1QuDCEkVC5pXE23Q=\n-----END PRIVATE KEY-----\n",
+  "client_email": "raas-service-account@raas-dsc.iam.gserviceaccount.com",
+  "client_id": "113508553469176568149",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/raas-service-account%40raas-dsc.iam.gserviceaccount.com"
+}
